@@ -1,0 +1,28 @@
+Command line:
+   my_uart_rx_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56435
+
+Fri Aug 23 19:15:20 2019
+
+
+ Elaboration Time: 0.171875 sec
+
+ Current Memory Usage: 5181.71 Meg
+
+ Total Signals          : 24
+ Total Nets             : 31
+ Total Signal Drivers   : 16
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 27
+ Total Traceable Variables  : 31
+ Total Scalar Nets and Variables : 179
+
+ Total Simulation Time: 0.234375 sec
+
+ Current Memory Usage: 5024.42 Meg
+
+Fri Aug 23 19:17:50 2019
+

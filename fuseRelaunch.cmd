@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/FPGA_Study/Xilinx/UART_Demo_Verilog/uart_tx_demo_tb_isim_beh.exe" -prj "D:/FPGA_Study/Xilinx/UART_Demo_Verilog/uart_tx_demo_tb_beh.prj" "work.uart_tx_demo_tb" "work.glbl" 

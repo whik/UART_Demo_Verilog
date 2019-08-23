@@ -1,0 +1,4 @@
+verilog work "HDL/uart_tx_8bit.v"
+verilog work "HDL/uart_tx_demo.v"
+verilog work "HDL/uart_tx_demo_tb.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

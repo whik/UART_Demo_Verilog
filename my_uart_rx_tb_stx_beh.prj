@@ -1,0 +1,3 @@
+verilog isim_temp "HDL/my_uart_rx.v"
+verilog isim_temp "HDL/my_uart_rx_tb.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
